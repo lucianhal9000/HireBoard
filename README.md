@@ -100,6 +100,10 @@ HireBoard/
 
 <img width="1882" height="952" alt="image" src="https://github.com/user-attachments/assets/333bc4a3-8bf2-44a7-bbaf-bb381ab57ce6" />
 <img width="1917" height="970" alt="image" src="https://github.com/user-attachments/assets/1b498cd9-e094-4943-88b8-77799082b0a3" />
+<img width="1911" height="967" alt="image" src="https://github.com/user-attachments/assets/a24987e8-9d67-4ab5-b610-3f1ba62104c2" />
+<img width="1913" height="976" alt="image" src="https://github.com/user-attachments/assets/05902705-f030-4d74-8ac1-dc72d5001524" />
+
+
 
 
 ## 🗺️ Roadmap
