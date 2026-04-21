@@ -25,7 +25,7 @@ Track every stage of your job search — from first click to final offer.</p>
 | 🔍 **Detail Drawer** | Side panel with all job info at a glance |
 | 🌓 **Light / Dark Mode** | System-aware theme toggle via MUI `ThemeProvider` |
 | 📊 **Table View** | `/list` route powered by MUI DataGrid with sorting & quick-filter |
-| 💾 **Persistent Storage** | Saved to `localStorage` — no account or backend required |
+
 
 ---
 
