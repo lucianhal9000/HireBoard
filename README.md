@@ -98,6 +98,10 @@ HireBoard/
 
 ---
 
+<img width="1882" height="952" alt="image" src="https://github.com/user-attachments/assets/333bc4a3-8bf2-44a7-bbaf-bb381ab57ce6" />
+<img width="1917" height="970" alt="image" src="https://github.com/user-attachments/assets/1b498cd9-e094-4943-88b8-77799082b0a3" />
+
+
 ## 🗺️ Roadmap
 
 - [ ] Cloud sync (Supabase / Firebase backend)
